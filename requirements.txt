@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Flask-Login
+opencv-python
+qrcode
+flask-socketio
+scikit-learn
+numpy
